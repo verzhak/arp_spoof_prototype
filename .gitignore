@@ -1,0 +1,7 @@
+build
+build/*
+*.swp
+.~*
+*~
+*.o
+simple_test.sh
