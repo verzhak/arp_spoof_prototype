@@ -11,7 +11,7 @@ MAIN = main.c
 COMPILER = gcc
 FLAGS = -Wall
 DEBUG_FLAGS = -ggdb3
-RELEASE_FLAGS = -O2 -Werror
+RELEASE_FLAGS = -O2
 STAR = "*"
 SIMPLE_TEST = simple_test.sh
 
